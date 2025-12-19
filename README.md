@@ -80,8 +80,8 @@ Projeyi çalıştırmadan önce aşağıdaki klasör yapısının mevcut olduğu
 Bu uygulama yalnızca **eğitim ve bilgilendirme amaçlıdır.** Tıbbi bir teşhis aracı değildir. Ciddi yanıklarda veya emin olmadığınız durumlarda lütfen her zaman profesyonel bir sağlık kuruluşuna veya **112 Acil Çağrı Merkezi**'ne başvurun.
 
 ## Geliştirici
-Beyza ÖNDER
-Bilişim Sistemleri ve Teknolojileri Öğrencisi
-Dijital Görüntü İşleme Projesi
+-Beyza ÖNDER
+-Bilişim Sistemleri ve Teknolojileri Öğrencisi
+-Dijital Görüntü İşleme Projesi
 ---
 
